@@ -6,7 +6,7 @@ class Empleado {
   Empleado(this.id, this.nombre);
 }
 
-// Nodo del árbol binario
+// Nodo del ábol binario
 class Nodo {
   Empleado empleado;
   Nodo? izquierdo;
